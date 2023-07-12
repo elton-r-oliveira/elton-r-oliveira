@@ -18,5 +18,6 @@
  	<a href="https://twitter.com/Eltin5009773962" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elton-ribeiro-2056b7173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/07/portalcbncampinas-com-br-twittereapolitica-twitter-logo.png?fit=2100%2C790&ssl=1" target="_blank"><a/>
   
 </div>
