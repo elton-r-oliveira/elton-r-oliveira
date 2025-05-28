@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elton-r-oliveira/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elton-r-oliveira/elton-r-oliveira/output/github-contribution-grid-snake.svg">
 
 ###
