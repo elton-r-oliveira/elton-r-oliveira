@@ -43,7 +43,10 @@
 ###
 
 <br clear="both">
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elton-r-oliveira/elton-r-oliveira/output/github-contribution-grid-snake.svg">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruxa61/bruxa61/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bruxa61/bruxa61/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elton-r-oliveira/elton-r-oliveira/output/github-contribution-grid-snake.svg">
+   </picture>
 
 ###
