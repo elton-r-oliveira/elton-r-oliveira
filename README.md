@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elton-r-oliveira.elton-r-oliveira&"  />
 </div>
+
 ###
 
 <div align="center">
@@ -42,17 +43,11 @@
 </div>
 
 ###
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elton-r-oliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=00000000&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%20de%20elton-r-oliveira" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elton-r-oliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117&hide_border=true&order=2" height="100" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elton-r-oliveira&radius=16&theme=react&area=true&order=5&line=FF91A4&point=A8D5BA&title_color=FF91A4&custom_title=Contribui%C3%A7%C3%A3o%20de%20elton-r-oliveira&bg_color=0D1117&color=FF91A4&hide_border=true&hide_title=false&area_color=FF91A4" height="400" alt="activity-graph graph"  />
 </div>
-
-###
-
-
-###
 
 ###
