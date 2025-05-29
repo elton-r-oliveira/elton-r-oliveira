@@ -10,11 +10,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/21skn75dn6ulysi4xhfmjctgi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21skn75dn6ulysi4xhfmjctgi&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
@@ -32,6 +27,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  /> 
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21skn75dn6ulysi4xhfmjctgi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21skn75dn6ulysi4xhfmjctgi&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins-regular&size=24&pause=1000&color=415BE0&background=FF91A400&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Elton+R.+Oliveira!)](https://git.io/typing-svg)
+  
+  Olá! Sou alguém que gosta de transformar ideias em projetos funcionais e bem organizados.Tenho me dedicado a aprimorar minhas
+  habilidades em Next.js, tanto no frontend quanto no backend, com o apoio do Node.js.
+  
+  No universo dos dados, estou sempre buscando evoluir com SQL Server. 
+  
+  Como hobby, me interesso por automação em Python, especialmente em projetos que facilitam tarefas do dia a dia ou otimizam processos de forma criativa.
+
+Gosto de aprender coisas novas, experimentar soluções diferentes e evoluir constantemente — um passo de cada vez, com propósito.
 </div>
 
 ###
