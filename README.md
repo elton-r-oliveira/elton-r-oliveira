@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins-regular&size=24&pause=1000&color=415BE0&background=FF91A400&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Elton+R.+Oliveira!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins-regular&pause=1000&color=415BE0&background=FF91A400&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Elton+R.+Oliveira!)](https://git.io/typing-svg)
 
   <div align="justify">
     
