@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="./images/elton.png"  />
+  <img height="300" src="./images/eltin_e_alfred.gif"  />
 </div>
 
 ###
